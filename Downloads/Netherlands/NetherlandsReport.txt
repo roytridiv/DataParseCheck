@@ -1,0 +1,10 @@
+Link of the Category (School Count)
+=======================================================
+1. http://www.lijstscholen.eu/type/basisonderwijs/ (6964)
+2. http://www.lijstscholen.eu/type/basisvorming/ (1309)
+3. http://www.lijstscholen.eu/type/secundair-beroepsonderwijs-mbo/ (70)
+4. http://www.lijstscholen.eu/type/speciaal-onderwijs/ (858)
+5. http://www.lijstscholen.eu/type/universiteit/ (53)
+
+=======================================================
+Total record found  >> 9254

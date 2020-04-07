@@ -1,0 +1,14 @@
+Link of the Category (School Count)
+=======================================================
+1. http://www.spisszkol.eu/typ/przedszkole/ (8039)
+2. http://www.spisszkol.eu/typ/szkola-podstawowa/ (13423)
+3. http://www.spisszkol.eu/typ/gimnazjum/ (7108)
+4. http://www.spisszkol.eu/typ/szkoly-ponadgimnazialne/ (23)
+5. http://www.spisszkol.eu/typ/szkoly-wyzsze/ (6)
+6. http://www.spisszkol.eu/typ/bursa/ (171)
+7. http://www.spisszkol.eu/typ/kolegium-nauczycielskie/ (21)
+8. http://www.spisszkol.eu/typ/centrum-ksztalcenia/ (4)
+9. http://www.spisszkol.eu/typ/inny/ (4)
+
+=======================================================
+Total record found  >> 28799

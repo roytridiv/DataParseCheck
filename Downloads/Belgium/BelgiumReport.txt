@@ -1,0 +1,10 @@
+Link of the Categorieën (School Count)
+=======================================================
+1. http://www.scholen-be.eu/type/test/ (6208)
+2. http://www.scholen-be.eu/type/secundair-onderwijs/ (1788)
+3. http://www.scholen-be.eu/type/hoger-onderwijs/ (41)
+4. http://www.scholen-be.eu/type/buitengewoon-onderwijs/ (141)
+5. http://www.scholen-be.eu/type/andere/ (311)
+
+=======================================================
+Total record found  >> 8489

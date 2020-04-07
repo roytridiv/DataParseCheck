@@ -1,0 +1,21 @@
+Link of the Category (School Count)
+=======================================================
+1. http://www.skollistan.eu/typ/forskola/ (67)
+2. http://www.skollistan.eu/typ/forskoleklass/ (127)
+3. http://www.skollistan.eu/typ/grundskola/ (4738)
+4. http://www.skollistan.eu/typ/grundsarskola/ (38)
+5. http://www.skollistan.eu/typ/specialskola/ (20)
+6. http://www.skollistan.eu/typ/sameskola/ (5)
+7. http://www.skollistan.eu/typ/gymnasieskola/ (1031)
+8. http://www.skollistan.eu/typ/gymnasiesarskola/ (214)
+9. http://www.skollistan.eu/typ/kommunal-vuxenutbildning-komvux/ (369)
+10. http://www.skollistan.eu/typ/yrkeshogskola/ (21)
+11. http://www.skollistan.eu/typ/hogskola/ (3)
+12. http://www.skollistan.eu/typ/obligatorisk-sarskola/ (679)
+13. http://www.skollistan.eu/typ/sarskild-utbildning-for-vuxna/ (17)
+14. http://www.skollistan.eu/typ/vuxenutbildning-for-personer-med-utvecklingsstorning-sarvux/ (233)
+15. http://www.skollistan.eu/typ/utbildning-i-svenska-for-invandrare/ (333)
+16. http://www.skollistan.eu/typ/andra-specifika-skolor/ (4)
+
+=======================================================
+Total record found  >> 7899

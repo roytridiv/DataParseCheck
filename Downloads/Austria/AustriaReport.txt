@@ -1,0 +1,14 @@
+Link of the Kategorien (School Count)
+=======================================================
+1. http://www.schulverzeichnis.eu/typ/test/ (34)
+2. http://www.schulverzeichnis.eu/typ/grundbildung/ (3381)
+3. http://www.schulverzeichnis.eu/typ/sekundarbildung-unterstufe/ (1470)
+4. http://www.schulverzeichnis.eu/typ/sekundarbildung-oberstufe/ (991)
+5. http://www.schulverzeichnis.eu/typ/post-sekundaren-bildung/ (367)
+6. http://www.schulverzeichnis.eu/typ/tertiare-bildung/ (139)
+7. http://www.schulverzeichnis.eu/typ/hochschulen/ (22)
+8. http://www.schulverzeichnis.eu/typ/musikschule/ (242)
+9. http://www.schulverzeichnis.eu/typ/sonstige-bildungseinrichtung/ (58)
+
+=======================================================
+Total record found  >> 6704

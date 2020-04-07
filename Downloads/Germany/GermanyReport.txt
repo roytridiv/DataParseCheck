@@ -1,0 +1,27 @@
+Link of the Category (School Count)
+=======================================================
+1. http://www.schulliste.eu/type/kindergarten/ (4211)
+2. http://www.schulliste.eu/type/grundschulen/ (15230)
+3. http://www.schulliste.eu/type/regionalschulen/ (223)
+4. http://www.schulliste.eu/type/hauptschulen/ (2373)
+5. http://www.schulliste.eu/type/realschulen/ (1898)
+6. http://www.schulliste.eu/type/gymnasien/ (2449)
+7. http://www.schulliste.eu/type/gesamtschulen/ (607)
+8. http://www.schulliste.eu/type/gemeinschaftsschulen/ (304)
+9. http://www.schulliste.eu/type/forderschulen/ (1776)
+10. http://www.schulliste.eu/type/waldorfschulen/ (132)
+11. http://www.schulliste.eu/type/berufsfachschulen/ (1223)
+12. http://www.schulliste.eu/type/berufliche-schulen/ (438)
+13. http://www.schulliste.eu/type/berufsschulen/ (379)
+14. http://www.schulliste.eu/type/gymnasiale-oberstufe/ (232)
+15. http://www.schulliste.eu/type/oberschulen/ (1011)
+16. http://www.schulliste.eu/type/fachschulen/ (574)
+17. http://www.schulliste.eu/type/hochschulen/ (59)
+18. http://www.schulliste.eu/type/bildungszentrum/ (93)
+19. http://www.schulliste.eu/type/kollegs/ (402)
+20. http://www.schulliste.eu/type/abendgymnasien/ (36)
+21. http://www.schulliste.eu/type/weiterbildung/ (117)
+22. http://www.schulliste.eu/type/andere/ (659)
+
+=======================================================
+Total record found  >> 34426
